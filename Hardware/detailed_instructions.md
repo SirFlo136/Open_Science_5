@@ -1,0 +1,100 @@
+Welcome to the detailed instructions of group 5. For the time being, we will document everything we did each day in this
+file such that we can find it whenever necessary.
+
+## Wednesday 23 september
+So the first thing we had to do today was find our groups. For the group reproducing our efforts this should not
+be such a big problem because they already did the arduino project together.
+
+First we cloned the entire repository to one of our own, and added everybody as a collaborator. If you do not 
+know how to do this, googling this gives a fairly straightforward guide.
+Afterwards we carefully read the README.md document providing the original explanation and looked through all the files.
+We noticed a couple of things:
+  -  All the .step files needed to make the gearbox are already included. This means that we do **not** have to create 
+     our own gears, but rather can use these files to print our first prototype.
+  -  As mentioned in the README, there is a picture of the gearbox under the 'results' section. We can use this to get
+     a feeling for the way the gearbox should be constructed.
+  -  We think that the final goal of the project is to create a gearbox that rotates at an 8-to-50 ratio.
+
+### Printing the prototype.
+In this section we will carefully describe what we did to get our prototype. 
+  - The first thing to do is to watch the youtube tutorial of Lili's protolab, you can find the link to the video
+    in the Documents map of this repository. This is a pretty manual for the 3D-printing in the protolab. In order to speed
+    things along, we let one person watch the video, but keep in mind that then only that person knows how to print (if nobody
+    has prior experience).
+  - All .step files can be found in this map. We logged in on the computer in the protolab and put all .step-files on the
+    printing area in the SLICER SOFTWARE (I do not know the name of the app). There are eight .step files, they all fit on the area
+    together. Place them in a way that there is sufficient distance between them (like a centimeter).
+  - Choose the printer you want to use. We used the 0.4mm nozzle printer, it is recommended to print at 50% width of the nozzle,
+    which meant that we printed at 0.2mm.
+  - Check wheter all parts are printing from a broad base to a narrow top. If not, rotate them arount sucht that they are.
+  - If all parts seem to be in order, let the program slice the parts. Double check whether everything is supported and if not,
+    add support. We also added a brim. It seems as this is not necessary but just to be sure that parts would not fall down
+    we did.
+  - Choose the filament you want to use, we used orange PLA+, which was already connected to the printer.
+  - Clean the printplate with the liquid provided and wipe it of.
+  - Send the sliced file to the 3D printer and let it print.
+  - Stay close until the first layer is entirely printed, that way we can catch errors early and restart the printing.
+  - Wait :/
+
+
+Youtube totorial:
+we're going to introduce you to 3D printing with our fuse deposition modeling printers or fdm in short we will 
+guide you through the process of creating simple 3D printed objects from pla filament. 
+This filament is the most common material in 3D printing if you wish to print more complex parts
+or print from a different material sign up for our 3D printing Advanced Workshop. This guide assumes that you already have
+your digital 3D file at hand as STL or step file let's get started. 
+These are our fdm printers today we'll demonstrate our standard prusa MK 3.9 printers which are labeled 1 3 4 and 5.
+They work by feeding plastic filament through a heated print head in this print head the filament melts 
+and is extruded through a small diameter nozzle the first layer is printed onto the print bed 
+which is also heated to increase adhesion of the object to the bed every consequent layer is printed on 
+top of the existing layers slowly creating your object every nozzle has an extrusion hole with a specific opening diameter each printer is equipped with a specific nozzle diameter
+as indicated by a sign on each printer keep in mind that smaller diameters can print finer details but take longer to
+print pla is the most commonly used material for 3D printing and a good starting point for prototyping our pla filament spools are
+stored on the left hand side on the shelf and in the bottom drawer if more advanced materials are required sign up
+for our fdm 3D printing Workshop to convert your 3D object into commands for the printer we use slicing
+software for that start by opening a new instance of prusa slicer on any of the desktops in our lab we do not recommend slicing on your
+own computer because it will lack our preset database you are now in the 3D editor
+view import your files using the add button in the 3D editor view models can
+be added moved reoriented resized and duplicated manual manipulation tools can be found on the left hand side the
+object manipulation section on the right provides a numeric way of manipulating a model rotate your model such that it has
+the largest possible contact area with the build plate the most important slicing options
+are readily available on the right hand side one select a physical printer that is available and has the correct nozzle
+size for your model the numbers in the slicer match those found on the printer frames two choose a filament spool to
+use from the drawers the brand and type of filament is always denoted on the side of the spool select a filament preset from the
+drop down that best matches your material three select your desired print quality print quality is mainly determined by layer height and print
+speed smaller layer Heights result in better print Fidelity but can take significantly longer to
+print in general a layer height 50% of your nozzle diameter is a good default option resulting in decent print quality
+a speed profile is faster but might result in a loss of print quality four optionally you can choose to generate
+support structures a 3D printer cannot print Into Thin Air so depending on the printing geometry it might be necessary
+to add support structures supports on plate only will not base any support on top of your printed model finally you
+can choose to enable the brim option objects with relatively little contact to the print bed are at risk of releasing from the print bed take this
+into consideration for objects small narrow or longer than 10 cm enabling the brim will increase the adhesion of your
+print to the bed and reduce the chance of failure this single layer structure can be removed afterwards at this point
+simply press slice now the software will generate print commands and graphically show them to you in the preview returning to the 3D editor view is
+always possible via the selection buttons in the bottom left in the preview you can browse
+through all of the layers of your print to check if the selected slicing options provide the desired result particular attention should be paid to any dark
+blue print lines this color indicates that these lines should be supported to avoid print failure in the bottom right
+corner you can find the estimated material usage and print time at any point you can change the slicing settings to resolve any issues and
+reslice all right now we prepare the selected printer for printing first unload the currently loaded filament by
+selecting filament then select change filament once the printer heats up it will eject the filament after a few
+moments when asked check and confirm that the unload was successful remove the spool from the printer and this is
+important lace the filament through the holes in the spool rim to secure
+it Stow the spool either on the shelf or the bottom left drawer on the printer select the material of your new
+spool unlace the filament place your spool on the holder and feed the filament through the
+guide insert the the filament into the opening on top of the extruder once properly inserted confirm loading via
+the continue button on the screen once prompted confirm if the
+stream of plastic leaving the nozzle has the desired color if not press Purge more our printers use Pei coated Metal
+Sheets as a print surface these sheets come in three different roughness versions smooth satin and and textured
+for our case pla can best be printed on smooth the sheets are held on by magnets and can be changed by releasing them
+from the printer bed at the corners pick a smooth sheet from the drawer align it with the pins at the
+back of the bed and drop it down remove any possible debris with a plastic scraper wipe the plate clean with a
+paper cloth and isopropanol once you are confident the printer is ready move back over to the
+slicing computer at this point we recommend checking your settings with a staff member now with our model properly
+sliced and printer prepared we can send it to the printer click on the G button in the bottom right corner and select
+upload to Q from the popup window the screen on the printer should now show a transfer symbol once done it will
+display your model if you have verified that all seems ready press print print your print will now start once your
+print is done the printer will cool down release the print from the build plate by lifting the build plate from
+the magnetic bed gently bend the plate to promote the release of the print you can now remove the print by hand inspect
+the build plate and remove any remaining debris with a plastic scraper congratulations you have successfully 3D
+printed please don't forget to fill in the fabrication log
+
