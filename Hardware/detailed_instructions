@@ -18,27 +18,27 @@ We noticed a couple of things:
 ### Printing the prototype.
 In this section we will carefully describe what we did to get our prototype. 
   - The first thing to do is to watch the youtube tutorial of Lili's protolab, you can find the link to the video
-    in the Documents map of this repository. This is a pretty manual for the 3D-printing in the protolab. In order to speed
+    in the Documents map of this repository. This is a good manual for the 3D-printing in the protolab. In order to speed
     things along, we let one person watch the video, but keep in mind that then only that person knows how to print (if nobody
     has prior experience).
-  - All .step files can be found in this map. We logged in on the computer in the protolab and put all .step-files on the
+  - All .step files can be found in this map. We logged in on the computer in the protolab and put all .step files on the
     printing area in the SLICER SOFTWARE (I do not know the name of the app). There are eight .step files, they all fit on the area
-    together. Place them in a way that there is sufficient distance between them (like a centimeter).
+    together. Place them in a way that there is sufficient distance between them (like at least one or two centimeters).
   - Choose the printer you want to use. We used the 0.4mm nozzle printer, it is recommended to print at 50% width of the nozzle,
     which meant that we printed at 0.2mm.
-  - Check wheter all parts are printing from a broad base to a narrow top. If not, rotate them arount sucht that they are.
+  - Check whether all parts are printing from a broad base to a narrow top. If not, rotate them around such that they are.
   - If all parts seem to be in order, let the program slice the parts. Double check whether everything is supported and if not,
-    add support. We also added a brim. It seems as this is not necessary but just to be sure that parts would not fall down
+    add support. We also added a brim. It seems as this is not necessary but just to be sure that tall thin objects would not fall down
     we did.
-  - Choose the filament you want to use, we used orange PLA+, which was already connected to the printer.
-  - Clean the printplate with the liquid provided and wipe it of.
+  - Choose the filament you want to use. We used orange PLA+, which was already connected to the printer.
+  - Clean the print plate with the liquid provided and wipe it off.
   - Send the sliced file to the 3D printer and let it print.
   - Stay close until the first layer is entirely printed, that way we can catch errors early and restart the printing.
   - Wait :/
 
 
 Youtube totorial:
-we're going to introduce you to 3D printing with our fuse deposition modeling printers or fdm in short we will 
+We're going to introduce you to 3D printing with our fuse deposition modeling printers or fdm in short we will 
 guide you through the process of creating simple 3D printed objects from pla filament. 
 This filament is the most common material in 3D printing if you wish to print more complex parts
 or print from a different material sign up for our 3D printing Advanced Workshop. This guide assumes that you already have
@@ -96,6 +96,6 @@ display your model if you have verified that all seems ready press print print y
 print is done the printer will cool down release the print from the build plate by lifting the build plate from
 the magnetic bed gently bend the plate to promote the release of the print you can now remove the print by hand inspect
 the build plate and remove any remaining debris with a plastic scraper congratulations you have successfully 3D
-printed please don't forget to fill in the fabrication log
+printed please don't forget to fill in the fabrication log.
 
 
