@@ -28,6 +28,13 @@ _Even though platforms such as github show a list of user accounts for contribut
 	Zach Meredith,
 	Pieter Kooijman,
 	Daan van der Putten
++ Group 5:
+  	Floris Oostenbrug
+  	Hugo Van Zwynsvoorde Lopez
+  	Matthijs Ferwerda
+  	Jesse Kwast
+  	Wouter van Soest
+  	Daniel Stuart
 
 
 ## License
