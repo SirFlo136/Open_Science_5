@@ -1,16 +1,16 @@
 Welcome to the detailed instructions of group 5. For the time being, we will document everything we did each day in this
-file such that we can find it whenever necesarry
+file such that we can find it whenever necessary.
 
 ### Wednesday 23 september
-So the first thing we had to do today was find our groups. For the group following our efforts this should not
-Be such a big problem because they already did the arduino thing together.
+So the first thing we had to do today was find our groups. For the group reproducing our efforts this should not
+be such a big problem because they already did the arduino project together.
 
 First we cloned the entire repository to one of our own, and added everybody as a collaborator. If you do not 
 know how to do this, googling this gives a fairly straightforward guide.
-Afterwards we carefully read the README.md document provided by the original explanation and looked through all files.
+Afterwards we carefully read the README.md document providing the original explanation and looked through all the files.
 We noticed a couple of things:
   -  All the .step files needed to make the gearbox are already included. This means that we do **not** have to create 
-     our own gears. But rather can use these files to print our first prototype.
-  -  As mentioned in the README, there is a picture of the georbox under the 'results' section. We can use this to get
+     our own gears, but rather can use these files to print our first prototype.
+  -  As mentioned in the README, there is a picture of the gearbox under the 'results' section. We can use this to get
      a feeling for the way the gearbox should be constructed.
-  -  The final goal of the project is to create a gearbox that rotates at an 8-to-50 ratio we think.
+  -  We think that the final goal of the project is to create a gearbox that rotates at an 8-to-50 ratio.
