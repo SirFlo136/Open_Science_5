@@ -18,6 +18,15 @@ In this section we will carefully describe what we did to print our prototype.
   - After a couple of layers your gearbox should look like Figure 5 (altough it may be in a different color).
   - When the printer is done and cooled down, you can detach the parts from the plate by carefully bending it a little bit. Afterwards you carefully remove the brim .You can use a veil or a little bit of sandpaper to get it of perfectly. Now you are all set to construct the gearbox.
 
+
+
+
+  ### Spinning the plate
+    Once the gearbox is constructed, we need to connect the motor to a power source and use the wheel to spin the plate. The following steps will walk you through this process.
+    - Connect the two wires of the power source to the connectors on the motor, note that there are no plus and minus size, which goes where doesn't matter.
+    - Set the power source to a maximum of 6V to prevent the motor from defecting.
+    - Use a provided gearbox holder (or your hand) to spin the big plate by holding the wheel against the side of the plate. If the plate or wheel wobbles too much to stay in contact with the plate, you can try make the wheel roll on top of the plate.
+
 <div style="display: flex; justify-content: space-between;">
   <img src="/Documents/Images/Screen_of_software.jpeg" alt="lpl sharing" style="width: 50%;"/>
   <figcaption>Figure 1: The screen you should see in the software after adding and distributing all the parts<figcaption>
