@@ -56,7 +56,7 @@ In this section we will carefully describe what we did to print our prototype.
 In this section we will describe how to assemble the prototype using the printed parts and the specified nuts, bolts and washers
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="/Documents/Images/disassembled" alt="lpl sharing" style="width: 50%;"/>
+  <img src="/Documents/Images/dissasembled.jpeg" alt="lpl sharing" style="width: 50%;"/>
   <figcaption>Figure 6: Disassembled gearbox.<figcaption>
 </div>
 
@@ -75,6 +75,6 @@ In this section we will describe how to assemble the prototype using the printed
   - lubricate the gearbox with vaseline for optimal use and enjoyment
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="/Documents/Images/assembled" alt="lpl sharing" style="width: 50%;"/>
+  <img src="/Documents/Images/assembled.jpeg" alt="lpl sharing" style="width: 50%;"/>
   <figcaption>Figure 6: Assembled gearbox.<figcaption>
 </div>
