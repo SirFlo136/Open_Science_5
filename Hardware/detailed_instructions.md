@@ -51,3 +51,29 @@ In this section we will carefully describe what we did to print our prototype.
   <img src="/Documents/Images/Result.jpeg" alt="lpl sharing" style="width: 50%;"/>
   <figcaption>Figure 5: The printer is printing.<figcaption>
 </div>
+
+### Assembling the prototype
+In this section we will describe how to assemble the prototype using the printed parts and the specified nuts, bolts and washers
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="/Documents/Images/WhatsApp Image 2026-10-07 at 12.05.06" alt="lpl sharing" style="width: 50%;"/>
+  <figcaption>Figure 6: Disassembled gearbox.<figcaption>
+</div>
+
+  -First take the bottom side, identifyable by two small mounds and hole with two screw holes besides it.
+  -Srew two small screws into the screw holes until amost flush, then attach the motor by lining up the holes in the base and giving the screws a final twist.
+  -Take the small gear and push it onto the rod sticking out of the motor
+  -Thread the 4cm bolts through the two middle hole with the direction of the mounds. The small mound is in the middle and will be refered to as 's' and the big mound as 'b'
+  -thread one large gear onto the bolt through's'
+  -thread one large gear onto the bolt through 'b'
+  -thread one small washer and one large gear onto the bolt through 's'
+  -thread one small washer and the gear with a rod onto the bolt through 'b'
+  -fit a large washer into the large hole in the top plate
+  -thread four 3cm bolt through the corner holes of the top plate and place the plastic sleever over the bolts.
+  -Fit the two sides together and screw on the nuts on all the bolts
+  -lubricate the gearbox with vaseline for optimal use and enjoyment
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="/Documents/Images/WhatsApp Image 2026-10-07 at 12.05.06 (1)" alt="lpl sharing" style="width: 50%;"/>
+  <figcaption>Figure 6: Assembled gearbox.<figcaption>
+</div>
