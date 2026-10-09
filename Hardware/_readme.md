@@ -6,8 +6,9 @@ _In this subfolder you can describe the hardware involved in this prototype. Inc
 |Description| Amount | Where |
 |-----------|-----------|------|
 |3D printed parts | 8 / 9 | Github / LPL | 
-|Nuts  | 4 | jobshop | 
-|bolts | 6 | jobshop | 
+|Nuts  | 5 | jobshop | 
+|M3 3cm bolt | 4 | jobshop | 
+|M3 4cm bolt | 2 | jobshop | 
 |washers/spacers  | 5-7 | jobshop | 
 |Bearing  | 1 | jobshop | 
 |axle / shaft  | 1 | jobshop | 
